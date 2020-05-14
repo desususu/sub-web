@@ -213,7 +213,7 @@
     </el-dialog>
   </div>
 </template>
-
+const defaultBackend = "desususu.xyz"
 <script>
 const project = "https://github.com/CareyWang/sub-web";
 const remoteConfigSample =
